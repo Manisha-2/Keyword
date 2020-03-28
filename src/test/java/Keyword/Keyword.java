@@ -72,5 +72,36 @@ getWebElement(locaterType, LocatorValue).click();
 		select.selectByVisibleText(textToselect);
 
 	}
+//	public static WebElement findElement(String locaterType,String LocatorValue) {
+//		WebElement element=findElement(locaterType, LocatorValue);
+//		return element;
+//
+//			}
+	public static WebElement FindWebElement(String locaterType,String LocatorValue) {
+		WebElement element=null;
+		
+		switch(locaterType)
+		{
+		case"XPATH":
+			
+			element=Constant.driver.findElement(By.xpath(LocatorValue));
+			break;
+		case"CSS":
+			element=Constant.driver.findElement(By.cssSelector(LocatorValue));
+			break;
+		case"ID":
+			element=Constant.driver.findElement(By.cssSelector(LocatorValue));
+			break;
+		case"LINKTEXT":
+			element=Constant.driver.findElement(By.linkText(LocatorValue));
+			break;
+		case"PARTIAL_LINKTEXT":
+			element=Constant.driver.findElement(By.partialLinkText(LocatorValue));
+			break;
+		default:
+			System.out.println("Invalid LOcatorType: "+locaterType+". Expected XPATH,CSS,ID,LINKTEXT,PARTIAL_LINKTEXT");
+		}
+		return element;
+	}
 
 }

@@ -5,8 +5,7 @@
     <classes>
       <class name="Amezon_Test">
         <methods>
-          <include name="click_AmazonPay"/>
-          <include name="lounch_Url"/>
+          <include name="tc_11"/>
         </methods>
       </class> <!-- Amezon_Test -->
     </classes>
