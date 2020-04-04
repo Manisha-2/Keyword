@@ -1,0 +1,17 @@
+Recommended Topics:Xpath
+Where's My Order?,//a[contains(text(),' Wher')]
+Paying for Your Order,//a[contains(text(),'Paying for Your Order')]
+Delivery Charges,//a[contains(text(),'Delivery Charges')]
+Returns & Refunds,
+Manage Your Account Information,
+Pay on Delivery,
+Revise Payment,
+						
+Shipping & Delivery:Xpath
+Shipping & Delivery,
+Amazon Prime,
+Shipping Speeds and Delivery Charges,
+Track Your Package,
+Contact Courier,
+Ordering Restrictions,
+					

@@ -1,0 +1,51 @@
+2020-03-29 14:43:28,909 [main] INFO Google - Browser Opened
+2020-03-29 14:43:28,988 [main] INFO Google - Implicit wait given
+2020-03-29 14:43:35,514 [main] INFO Google - Url opened
+2020-03-29 14:43:36,383 [main] INFO Google - keyword type
+2020-03-29 14:45:58,506 [main] INFO Google - Browser Opened
+2020-03-29 14:45:58,536 [main] INFO Google - Implicit wait given
+2020-03-29 14:46:17,897 [main] INFO Google - Url opened
+2020-03-29 15:00:56,846 [main] INFO Keyword - Browser Opened
+2020-04-04 13:02:50,043 [main] INFO Keyword - Click on EMI
+2020-04-04 13:02:55,438 [main] INFO Keyword - Get Text
+2020-04-04 13:02:57,237 [main] INFO Keyword - Click on Email
+2020-04-04 13:03:17,869 [main] INFO Keyword - Mouse Over
+2020-04-04 13:10:24,131 [main] INFO Keyword - Get Text
+2020-04-04 13:12:09,535 [main] INFO Keyword - Click on EMI
+2020-04-04 13:12:09,693 [main] INFO Keyword - Get Text
+2020-04-04 13:13:22,956 [main] INFO Keyword - Click on EMI
+2020-04-04 13:13:23,092 [main] INFO Keyword - Get Text
+2020-04-04 13:13:25,501 [main] INFO Keyword - Click on Mobile
+2020-04-04 13:13:45,794 [main] INFO Keyword - Mouse Over
+2020-04-04 13:34:46,642 [main] INFO Keyword - Click on EMI
+2020-04-04 13:34:46,796 [main] INFO Keyword - Get Text
+2020-04-04 13:34:49,046 [main] INFO Keyword - Click on Mobile
+2020-04-04 13:35:09,419 [main] INFO Keyword - Mouse Over
+2020-04-04 13:38:22,983 [main] INFO Keyword - Click on EMI
+2020-04-04 13:38:23,198 [main] INFO Keyword - Get Text
+2020-04-04 13:38:26,068 [main] INFO Keyword - Click on Mobile
+2020-04-04 13:38:46,487 [main] INFO Keyword - Mouse Over
+2020-04-04 13:41:46,092 [main] INFO Keyword - Click on EMI
+2020-04-04 13:41:46,532 [main] INFO Keyword - Get Text
+2020-04-04 13:41:48,196 [main] INFO Keyword - Click on Mobile
+2020-04-04 13:42:11,402 [main] INFO Keyword - Mouse Over
+2020-04-04 14:16:37,570 [main] INFO Keyword - Click on EMI
+2020-04-04 14:16:37,764 [main] INFO Keyword - Get Text
+2020-04-04 14:16:41,306 [main] INFO Keyword - Click on Mobile
+2020-04-04 14:17:01,595 [main] INFO Keyword - Mouse Over
+2020-04-04 14:21:27,000 [main] INFO Keyword - Click on EMI
+2020-04-04 14:21:27,322 [main] INFO Keyword - Get Text
+2020-04-04 14:21:28,205 [main] INFO Keyword - Click on Mobile
+2020-04-04 14:21:50,781 [main] INFO Keyword - Mouse Over
+2020-04-04 14:25:53,655 [main] INFO Keyword - Click on EMI
+2020-04-04 14:25:54,096 [main] INFO Keyword - Get Text
+2020-04-04 14:25:55,359 [main] INFO Keyword - Click on Mobile
+2020-04-04 14:26:17,122 [main] INFO Keyword - Mouse Over
+2020-04-04 14:28:37,422 [main] INFO Keyword - Click on EMI
+2020-04-04 14:28:37,772 [main] INFO Keyword - Get Text
+2020-04-04 14:28:39,976 [main] INFO Keyword - Click on Mobile
+2020-04-04 14:29:00,263 [main] INFO Keyword - Mouse Over
+2020-04-04 14:31:21,423 [main] INFO Keyword - Click on EMI
+2020-04-04 14:31:21,794 [main] INFO Keyword - Get Text
+2020-04-04 14:31:24,243 [main] INFO Keyword - Click on Mobile
+2020-04-04 14:31:44,543 [main] INFO Keyword - Mouse Over

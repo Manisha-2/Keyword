@@ -1,0 +1,88 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 17, Errors: 0, Skipped: 0, Time elapsed: 2.779 sec <<< FAILURE!
+tc_01(Amezon_Test)  Time elapsed: 0.03 sec  <<< FAILURE!
+java.lang.Error: Unresolved compilation problem: 
+	Cannot switch on a value of type String for source level below 1.7. Only convertible int values or enum variables are permitted
+
+	at Keyword.Keyword.openBrowser(Keyword.java:44)
+	at Amezon_Test.tc_01(Amezon_Test.java:18)
+
+tc_02(Amezon_Test)  Time elapsed: 0.004 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at Keyword.Keyword.openURL(Keyword.java:60)
+	at Amezon_Test.tc_02(Amezon_Test.java:23)
+
+tc_03(Amezon_Test)  Time elapsed: 0.002 sec  <<< FAILURE!
+java.lang.Error: Unresolved compilation problem: 
+	Cannot switch on a value of type String for source level below 1.7. Only convertible int values or enum variables are permitted
+
+	at Keyword.Keyword.getWebElement(Keyword.java:18)
+	at Keyword.Keyword.clickOnElement(Keyword.java:68)
+	at Amezon_Test.tc_03(Amezon_Test.java:31)
+
+tc_04(Amezon_Test)  Time elapsed: 0.004 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at Amezon_Test.tc_04(Amezon_Test.java:35)
+
+tc_05(Amezon_Test)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at Amezon_Test.tc_05(Amezon_Test.java:46)
+
+tc_06(Amezon_Test)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at Amezon_Test.tc_06(Amezon_Test.java:57)
+
+tc_07(Amezon_Test)  Time elapsed: 0.004 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at Amezon_Test.tc_07(Amezon_Test.java:68)
+
+tc_09(Amezon_Test)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at Amezon_Test.tc_09(Amezon_Test.java:80)
+
+tc_10(Amezon_Test)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at Amezon_Test.tc_10(Amezon_Test.java:91)
+
+tc_11(Amezon_Test)  Time elapsed: 0.004 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at Amezon_Test.tc_11(Amezon_Test.java:104)
+
+tc_01(Test_Cses_EMI)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.Error: Unresolved compilation problem: 
+	Cannot switch on a value of type String for source level below 1.7. Only convertible int values or enum variables are permitted
+
+	at Keyword.Keyword.openBrowser(Keyword.java:44)
+	at Test_Cses_EMI.tc_01(Test_Cses_EMI.java:15)
+
+tc_02(Test_Cses_EMI)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at Keyword.Keyword.openURL(Keyword.java:60)
+	at Test_Cses_EMI.tc_02(Test_Cses_EMI.java:19)
+
+tc_03(Test_Cses_EMI)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.Error: Unresolved compilation problem: 
+	Cannot switch on a value of type String for source level below 1.7. Only convertible int values or enum variables are permitted
+
+	at Keyword.Keyword.getWebElement(Keyword.java:18)
+	at Keyword.Keyword.clickOnElement(Keyword.java:68)
+	at Test_Cses_EMI.tc_03(Test_Cses_EMI.java:23)
+
+tc_4(Test_Cses_EMI)  Time elapsed: 0.002 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at Test_Cses_EMI.tc_4(Test_Cses_EMI.java:27)
+
+tc_5(Test_Cses_EMI)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at Test_Cses_EMI.tc_5(Test_Cses_EMI.java:39)
+
+tc_6(Test_Cses_EMI)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at Test_Cses_EMI.tc_6(Test_Cses_EMI.java:54)
+
+tc_7(Test_Cses_EMI)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at Test_Cses_EMI.tc_7(Test_Cses_EMI.java:67)
+
